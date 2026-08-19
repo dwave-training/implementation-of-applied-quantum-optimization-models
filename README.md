@@ -1,43 +1,26 @@
 # Implementation of Applied Quantum Optimization Models
-In this repository, you can navigate to 10 repositories corresponding to 10 separate assignments in the "Implementation of Applied Quantum Optimization Models" course. Each assignment folder includes instructions in the `Readme` file. Once complete, upload your `.py` file to D-Wave Learn to see how you did.
+In this repository, you can navigate to 13 repositories corresponding to 13 separate assignments in the "Implementation of Applied Quantum Optimization Models" course. Each assignment folder includes instructions in the `Readme` file. Once complete, upload your `.py` file to D-Wave Learn to see how you did.
 
-## Assignment 1: Change a List
-For this assignment, navigate to ['#'](https://github.com/dwave-training/#) repository.
+## Assignment 1 - 5: Python Review
+For this assignment, navigate to ['iaqom-python-review'](https://github.com/dwave-training/iaqom-python-review) repository.
 
-## Assignment 2: Use a For Loop
-For this assignment, navigate to ['#'](https://github.com/dwave-training/#) repository.
+## Assignment 6&8: Portfolio Optimization with Binary Variables
+For these assignments, navigate to ['iaqom-portfolio-optimization-binary'](https://github.com/dwave-training/iaqom-portfolio-optimization-binary) repository.
 
-## Assignment 3: Use List Comprehension
-For this assignment, navigate to ['#'](https://github.com/dwave-training/#) repository.
+## Assignment 7&9: Portfolio Optimization with Sets
+For these assignments, navigate to ['iaqom-portfolio-optimization-set'](https://github.com/dwave-training/iaqom-portfolio-optimization-set) repository.
 
-## Assignment 4: Create a Function
-For this assignment, navigate to ['#'](https://github.com/dwave-training/#) repository.
+## Assignment 10: Traveling Salesperson
+For this assignment, navigate to ['iaqom-traveling-salesperson-list'](https://github.com/dwave-training/iaqom-traveling-salesperson-list) repository.
 
-## Assignment 5: Use NumPy
-For this assignment, navigate to ['#'](https://github.com/dwave-training/#) repository.
+## Assignment 11: Flow Shop Scheduling Problem
+For this assignment, navigate to ['iaqom-flow-shop-scheduling-list'](https://github.com/dwave-training/iaqom-flow-shop-scheduling-list) repository.
 
-## Assignment 6: Portfolio Optimization with Binary Variables
-For this assignment, navigate to ['#'](https://github.com/dwave-training/#) repository.
+## Assignment 12&13: Quadratic Knapsack
+For these assignments, navigate to ['iaqom-quadratic-knapsack'](https://github.com/dwave-training/iaqom-quadratic-knapsack) repository.
 
-## Assignment 7: Portfolio Optimization with Sets
-For this assignment, navigate to ['#'](https://github.com/dwave-training/#) repository.
+## Code Example: Multi-Vehicle Routing
+For this example, navigate to ['iaqom-multi-vehicle-routing-disjointlist'](https://github.com/dwave-training/iaqom-multi-vehicle-routing-disjointlist) repository.
 
-## Assignment 8: Test and Submit the Portfolio Optimization Problem with Binary Variables
-For this assignment, navigate to ['#'](https://github.com/dwave-training/#) repository.
-
-## Assignment 9: Test Initial States and Submit the Portfolio Optimization Problem with Sets
-For this assignment, navigate to ['#'](https://github.com/dwave-training/#) repository.
-
-## Assignment 10: TSP Test Initial States and Submit
-For this assignment, navigate to ['#'](https://github.com/dwave-training/#) repository.
-
-## Assignment 11: Submit the Flow Shop Scheduling Problem
-For this assignment, navigate to ['#'](https://github.com/dwave-training/#) repository.
-
-## Assignment 12: Model Quadratic Knapsack Using a For Loop
-For this assignment, navigate to ['#'](https://github.com/dwave-training/#) repository.
-
-## Assignment 13: Model Quadratic Knapsack Using Matrix Multiplication
-For this assignment, navigate to ['#'](https://github.com/dwave-training/#) repository.
 
 
