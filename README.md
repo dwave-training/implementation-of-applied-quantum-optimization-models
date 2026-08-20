@@ -13,14 +13,12 @@ For these assignments, navigate to the ['iaqom-portfolio-optimization-set'](http
 ## Traveling Salesperson
 For this assignment, navigate to the ['iaqom-traveling-salesperson-list'](https://github.com/dwave-training/iaqom-traveling-salesperson-list) repository.
 
-## Flow Shop Scheduling
-For this assignment, navigate to the ['iaqom-flow-shop-scheduling-list'](https://github.com/dwave-training/iaqom-flow-shop-scheduling-list) repository.
-
 ## Quadratic Knapsack
 For these assignments, navigate to the ['iaqom-quadratic-knapsack'](https://github.com/dwave-training/iaqom-quadratic-knapsack) repository.
 
 ## Multi-Vehicle Routing
 For this problem, navigate to the ['iaqom-multi-vehicle-routing-disjointlist'](https://github.com/dwave-training/iaqom-multi-vehicle-routing-disjointlist) repository.
 
-
+## Flow Shop Scheduling
+For this assignment, navigate to the ['iaqom-flow-shop-scheduling-list'](https://github.com/dwave-training/iaqom-flow-shop-scheduling-list) repository.
 
