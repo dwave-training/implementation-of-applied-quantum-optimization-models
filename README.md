@@ -1,26 +1,26 @@
 # Implementation of Applied Quantum Optimization Models
-In this repository, you can navigate to 13 repositories corresponding to 13 separate assignments in the "Implementation of Applied Quantum Optimization Models" course. Each assignment folder includes instructions in the `Readme` file. Once complete, upload your `.py` file to D-Wave Learn to see how you did.
+This repository provides links to all assignment repositories in the online "Implementation of Applied Quantum Optimization Models" course.
 
-## Assignment 1 - 5: Python Review
-For this assignment, navigate to the ['iaqom-python-review'](https://github.com/dwave-training/iaqom-python-review) repository.
+## Python Review
+For the review assignments, navigate to the ['iaqom-python-review'](https://github.com/dwave-training/iaqom-python-review) repository.
 
-## Assignment 6&8: Portfolio Optimization with Binary Variables
+## Portfolio Optimization with Binary Variables
 For these assignments, navigate to the ['iaqom-portfolio-optimization-binary'](https://github.com/dwave-training/iaqom-portfolio-optimization-binary) repository.
 
-## Assignment 7&9: Portfolio Optimization with Sets
+## Portfolio Optimization with Sets
 For these assignments, navigate to the ['iaqom-portfolio-optimization-set'](https://github.com/dwave-training/iaqom-portfolio-optimization-set) repository.
 
-## Assignment 10: Traveling Salesperson
+## Traveling Salesperson
 For this assignment, navigate to the ['iaqom-traveling-salesperson-list'](https://github.com/dwave-training/iaqom-traveling-salesperson-list) repository.
 
-## Assignment 11: Flow Shop Scheduling Problem
+## Flow Shop Scheduling
 For this assignment, navigate to the ['iaqom-flow-shop-scheduling-list'](https://github.com/dwave-training/iaqom-flow-shop-scheduling-list) repository.
 
-## Assignment 12&13: Quadratic Knapsack
+## Quadratic Knapsack
 For these assignments, navigate to the ['iaqom-quadratic-knapsack'](https://github.com/dwave-training/iaqom-quadratic-knapsack) repository.
 
-## Code Example: Multi-Vehicle Routing
-For this example, navigate to the ['iaqom-multi-vehicle-routing-disjointlist'](https://github.com/dwave-training/iaqom-multi-vehicle-routing-disjointlist) repository.
+## Multi-Vehicle Routing
+For this problem, navigate to the ['iaqom-multi-vehicle-routing-disjointlist'](https://github.com/dwave-training/iaqom-multi-vehicle-routing-disjointlist) repository.
 
 
 
