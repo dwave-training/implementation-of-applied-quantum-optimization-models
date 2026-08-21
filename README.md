@@ -1,5 +1,5 @@
 # Implementation of Applied Quantum Optimization Models
-This repository provides links to all assignment repositories in the online "Implementation of Applied Quantum Optimization Models" course.
+This repository contains links to all assignment repositories in the online "Implementation of Applied Quantum Optimization Models" course.
 
 ## Python Review
 For the review assignments, navigate to the ['iaqom-python-review'](https://github.com/dwave-training/iaqom-python-review) repository.
