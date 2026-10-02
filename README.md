@@ -19,11 +19,11 @@ For the review assignments, navigate to the ['iaqom-python-review'](https://gith
 ## Quadratic Assignment
 For this problem, navigate to the ['iaqom-quadratic-assignment-list'](https://github.com/dwave-training/iaqom-quadratic-assignment-list) repository.
 
-## Quadratic Knapsack with Binary Variables
+## Quadratic Knapsack Problem
 For these assignments, navigate to the ['iaqom-quadratic-knapsack'](https://github.com/dwave-training/iaqom-quadratic-knapsack) repository.
 
-## Quadratic Knapsack with Sets
-For this assignment, navigate to the ['iaqom-knapsack-set'](https://github.com/dwave-training/iaqom-knapsack-set) repository.
+## Knapsack Problem with Sets
+For this problem, navigate to the ['iaqom-knapsack-set'](https://github.com/dwave-training/iaqom-knapsack-set) repository.
 
 ## Traveling Salesperson
 For this assignment, navigate to the ['iaqom-traveling-salesperson-list'](https://github.com/dwave-training/iaqom-traveling-salesperson-list) repository.
