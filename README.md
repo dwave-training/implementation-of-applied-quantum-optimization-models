@@ -1,5 +1,5 @@
 # Implementation of Applied Quantum Optimization Models
-This repository contains links to all assignment repositories in the online "Implementation of Applied Quantum Optimization Models" course.
+This repository contains links to all programming assignments and code examples required for the quizzes and lessons in the online "Implementation of Applied Quantum Optimization Models" course.
 
 ## Flow Shop Scheduling
 For this assignment, navigate to the ['iaqom-flow-shop-scheduling-list'](https://github.com/dwave-training/iaqom-flow-shop-scheduling-list) repository.
@@ -27,10 +27,4 @@ For this problem, navigate to the ['iaqom-knapsack-set'](https://github.com/dwav
 
 ## Traveling Salesperson
 For this assignment, navigate to the ['iaqom-traveling-salesperson-list'](https://github.com/dwave-training/iaqom-traveling-salesperson-list) repository.
-
-
-
-
-
-
 
